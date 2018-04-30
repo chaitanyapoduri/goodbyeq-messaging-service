@@ -1,0 +1,14 @@
+com\beatus\goodbyeq\email\model\MailAttachmentVO.class
+com\beatus\goodbyeq\email\repository\EmailRepository.class
+com\beatus\goodbyeq\email\exception\ExceptionHandlerUtils.class
+com\beatus\goodbyeq\email\model\MailVO.class
+com\beatus\goodbyeq\email\validation\EmailValidator.class
+com\beatus\goodbyeq\utils\Constants.class
+com\beatus\goodbyeq\email\validation\exception\GoodByeQClientValidationException.class
+com\beatus\goodbyeq\email\exception\ResponseEntityException.class
+com\beatus\goodbyeq\email\validation\exception\GoodByeQValidationException.class
+com\beatus\goodbyeq\email\service\EmailService.class
+com\beatus\goodbyeq\utils\GoodByeQMediaType.class
+com\beatus\goodbyeq\email\service\AWSSimpleMailService.class
+com\beatus\goodbyeq\utils\Utils.class
+com\beatus\goodbyeq\email\service\exception\GoodByeQEmailServiceException.class

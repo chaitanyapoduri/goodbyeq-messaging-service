@@ -1,0 +1,14 @@
+C:\Users\chait\Desktop\GOODBYEQ PRESENTATION\goodbyeq-messaging-service\src\main\java\com\beatus\goodbyeq\email\repository\EmailRepository.java
+C:\Users\chait\Desktop\GOODBYEQ PRESENTATION\goodbyeq-messaging-service\src\main\java\com\beatus\goodbyeq\email\validation\exception\GoodByeQValidationException.java
+C:\Users\chait\Desktop\GOODBYEQ PRESENTATION\goodbyeq-messaging-service\src\main\java\com\beatus\goodbyeq\email\model\MailVO.java
+C:\Users\chait\Desktop\GOODBYEQ PRESENTATION\goodbyeq-messaging-service\src\main\java\com\beatus\goodbyeq\email\service\exception\GoodByeQEmailServiceException.java
+C:\Users\chait\Desktop\GOODBYEQ PRESENTATION\goodbyeq-messaging-service\src\main\java\com\beatus\goodbyeq\email\validation\EmailValidator.java
+C:\Users\chait\Desktop\GOODBYEQ PRESENTATION\goodbyeq-messaging-service\src\main\java\com\beatus\goodbyeq\utils\Utils.java
+C:\Users\chait\Desktop\GOODBYEQ PRESENTATION\goodbyeq-messaging-service\src\main\java\com\beatus\goodbyeq\email\service\EmailService.java
+C:\Users\chait\Desktop\GOODBYEQ PRESENTATION\goodbyeq-messaging-service\src\main\java\com\beatus\goodbyeq\email\validation\exception\GoodByeQClientValidationException.java
+C:\Users\chait\Desktop\GOODBYEQ PRESENTATION\goodbyeq-messaging-service\src\main\java\com\beatus\goodbyeq\utils\Constants.java
+C:\Users\chait\Desktop\GOODBYEQ PRESENTATION\goodbyeq-messaging-service\src\main\java\com\beatus\goodbyeq\utils\GoodByeQMediaType.java
+C:\Users\chait\Desktop\GOODBYEQ PRESENTATION\goodbyeq-messaging-service\src\main\java\com\beatus\goodbyeq\email\model\MailAttachmentVO.java
+C:\Users\chait\Desktop\GOODBYEQ PRESENTATION\goodbyeq-messaging-service\src\main\java\com\beatus\goodbyeq\email\service\AWSSimpleMailService.java
+C:\Users\chait\Desktop\GOODBYEQ PRESENTATION\goodbyeq-messaging-service\src\main\java\com\beatus\goodbyeq\email\exception\ResponseEntityException.java
+C:\Users\chait\Desktop\GOODBYEQ PRESENTATION\goodbyeq-messaging-service\src\main\java\com\beatus\goodbyeq\email\exception\ExceptionHandlerUtils.java
